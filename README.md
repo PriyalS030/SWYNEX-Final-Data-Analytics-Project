@@ -87,8 +87,6 @@ The raw dataset contained several data quality issues that were addressed before
 - Created a new `revenue` column.
 
 ### Revenue Calculation
-
-```text
 Revenue = Unit Price × Quantity
 After cleaning, the dataset contained 1,480 valid transaction records.
 
